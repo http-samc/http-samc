@@ -10,4 +10,5 @@ I enjoy:
 - Responsive websites
 - Long walks on the beach
   
-You can email me at: [sam@chitgopekar.tech](mailto:sam@chitgopekar.tech)
+You can email me at: [sam@chitgopekar.tech](mailto:sam@chitgopekar.tech) \
+I'm looking forward to meeting you!
