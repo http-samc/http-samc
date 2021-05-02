@@ -1,7 +1,7 @@
-# Samarth Chitgopekar
+# 🚀http-samc🚀
 
 *Hi!* 
-I'm Samarth, from Chicago, IL. 
+I'm Sam, from Chicago, IL. 
 
 I enjoy:
 - writing in Python, Java, and JS
