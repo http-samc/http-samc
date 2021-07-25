@@ -25,6 +25,7 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [test post](https://dev.to/httpsamc/test-post-3839)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Say Hi:</h3>
