@@ -45,6 +45,7 @@
 
 <details>
 <summary align="center">My GitHub Stats</summary>
+<br><br>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-samc&show_icons=true&locale=en&layout=compact" alt="http-samc" /></p>
 
