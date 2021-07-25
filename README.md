@@ -45,12 +45,12 @@
 
 <details>
 <summary align="center">My GitHub Stats</summary>
-<br><br>
+<br>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-samc&show_icons=true&locale=en&layout=compact" alt="http-samc" /></p>
+<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-samc&show_icons=true&locale=en&layout=compact" alt="http-samc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-samc&show_icons=true&locale=en" alt="http-samc" /></p>
+<p>&nbsp;<img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=http-samc&show_icons=true&locale=en" alt="http-samc" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-samc&" alt="http-samc" /></p>
+<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=http-samc&" alt="http-samc" /></p>
 </div>
 </details>
