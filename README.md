@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cut-It](https://cutit.cards)
 
-- 🌱 I’m currently learning **Go, React Native**
+- 🌱 I’m currently learning **Go and React Native**
 
 - 👯 I’m looking to collaborate on [tournaments.tech](http://tournaments.tech)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.smrth.dev](https://www.smrth.dev)
 
-- 📝 I regularly write articles on [https://dev.to/httpsamc](https://dev.to/httpsamc)
+- 📝 I write articles on [https://dev.to/httpsamc](https://dev.to/httpsamc)
 
 - 💬 Ask me about **Python, Data Analysis, ML/AI**
 
@@ -21,11 +21,10 @@
 
 - ⚡ Fun fact **The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.**
 
-- I'm looking to transition **out** of *Python* in my future projects and I'm already shifting over to *Go* and *Js*!
+- I'm looking to expand **past** *Python* in my future projects, so I'm shifting over to *Go* and *Js*! (I'll still use Python for Machine Learning though 😃)
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [test post](https://dev.to/httpsamc/test-post-3839)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Say Hi:</h3>
