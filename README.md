@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cut-It](https://cutit.cards)
 
-- 🌱 I’m currently learning **Go and React Native**
+- 🌱 I’m learning **Go** and **React Native**
 
 - 👯 I’m looking to collaborate on [tournaments.tech](http://tournaments.tech)
 
@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.smrth.dev](https://www.smrth.dev)
 
-- 📝 I write articles on [https://dev.to/httpsamc](https://dev.to/httpsamc)
+- 📝 I write articles on [dev.to](https://dev.to/httpsamc)
 
-- 💬 Ask me about **Python, Data Analysis, ML/AI**
+- 💬 Ask me about **Python**, **Data Analysis**, and **ML/AI**
 
 - 📫 Email me at **sam@chitgopekar.tech**
 
-- ⚡ Fun fact **The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.**
+- ⚡ Fun fact *The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.*
 
 - I'm looking to expand **past** *Python* in my future projects, so I'm shifting over to *Go* and *Js*! (I'll still use Python for Machine Learning though 😃)
 
@@ -43,8 +43,8 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=samarthchitgopekar2004&cover_image=true&theme=novatorem">
 </div>
 
-<details>
-<summary align="center">My GitHub Stats</summary>
+<h3><details>
+<summary align="left">GitHub Stats:</summary>
 <br>
 <div align="center">
 <p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-samc&show_icons=true&locale=en&layout=compact" alt="http-samc" /></p>
@@ -53,4 +53,4 @@
 
 <p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=http-samc&" alt="http-samc" /></p>
 </div>
-</details>
+</details><h3>
