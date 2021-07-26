@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [ChaiDB](https://github.com/http-samc/chaidb)
 
-- 👨‍💻 All of my projects are available at [https://www.smrth.dev](https://www.smrth.dev)
+- 👨‍💻 All of my projects are available at [smrth.dev](https://www.smrth.dev)
 
 - 📝 I write articles on [dev.to](https://dev.to/httpsamc)
 
@@ -25,7 +25,6 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Test Post!!!](https://dev.to/httpsamc/test-post-1921)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Say Hi:</h3>
