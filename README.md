@@ -25,6 +25,7 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Deploying An App: 5 things I learned](https://dev.to/httpsamc/test-post-1921)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Say Hi:</h3>
