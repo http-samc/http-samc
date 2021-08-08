@@ -25,6 +25,7 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [in-memory databases: a pratical demo](https://dev.to/httpsamc/in-memory-databases-a-pratical-demo-4bmp)
 - [Deploying An App: 5 things I learned](https://dev.to/httpsamc/test-post-1921)
 <!-- BLOG-POST-LIST:END -->
 
