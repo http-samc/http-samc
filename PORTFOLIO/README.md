@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Chitgopekar</h1>
 <h3 align="center">A fullstack developer from Chicago, IL</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=http-samc&label=Profile%20views&color=0e75b6&style=flat" alt="http-samc" /> </p>
-
 - 🔭 I’m currently working on [Cut-It](https://cutit.cards)
 
 - 🌱 I’m learning **Go** and **React Native**
@@ -19,9 +17,6 @@
 
 - 📫 Email me at **sam@chitgopekar.tech**
 
-- ⚡ Fun fact *The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.*
-
-- I'm looking to expand **past** *Python* in my future projects, so I'm shifting over to *Go* and *Js*! (I'll still use Python for Machine Learning though 😃)
 
 <h3 align="left">Say Hi:</h3>
 <p align="left">
@@ -38,15 +33,3 @@
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=samarthchitgopekar2004&cover_image=true&theme=novatorem">
 </div>
-
-<h3><details>
-<summary align="left">GitHub Stats:</summary>
-<br>
-<div align="center">
-<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-samc&show_icons=true&locale=en&layout=compact" alt="http-samc" /></p>
-
-<p>&nbsp;<img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=http-samc&show_icons=true&locale=en" alt="http-samc" /></p><br>
-
-<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=http-samc&" alt="http-samc" /></p>
-</div>
-</details><h3>
