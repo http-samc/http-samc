@@ -7,7 +7,7 @@ I'm Sam, a student at [Fremd High School](https://adc.d211.org/Domain/9) ('23). 
 - Swimming
 - Playing Water Polo
 - Working on Research
-- and going to school❗❗❗
+- and going to school❗
 
 ## get in touch 🤝
 I'm open for structured work, internships (paid or unpaid), freelance projects, and anything else that can help me better myself as a developer **and** a person. Feel free to reach out to me via email at 📫 [sam@chitgopekar.tech](mailto:sam@chitgopekar.tech), or via any of my other socials below.
