@@ -10,7 +10,7 @@ I'm Sam, a student at [Fremd High School](https://adc.d211.org/Domain/9) ('23). 
 - and going to school❗
 
 ## get in touch 🤝
-I'm open for structured work, internships (paid or unpaid), freelance projects, and anything else that can help me better myself as a developer **and** a person. Feel free to reach out to me via email at 📫 [sam@chitgopekar.tech](mailto:sam@chitgopekar.tech), or via any of my other socials below.
+I'm open for structured work, internships (paid or unpaid), freelance projects, and anything else that can help me better myself as a developer **and** a person. Feel free to reach out to me via email at [sam@chitgopekar.tech](mailto:sam@chitgopekar.tech), or via any of my other socials below.
 <h6 align="center">
 <a href="https://github.com/http-samc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="http-samc" height="30" width="40" /></a>
 <a href="https://dev.to/http-samc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="http-samc" height="30" width="40" /></a>
