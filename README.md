@@ -16,7 +16,8 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [in-memory databases: a practical demo](https://dev.to/httpsamc/in-memory-databases-a-pratical-demo-4bmp)
+- [A Simple Pascal&#39;s Triangle Solution](https://dev.to/httpsamc/a-simple-pascals-triangle-solution-1jn2)
+- [in-memory databases: a demo](https://dev.to/httpsamc/in-memory-databases-a-pratical-demo-4bmp)
 - [Deploying An App: 5 things I learned](https://dev.to/httpsamc/test-post-1921)
 <!-- BLOG-POST-LIST:END -->
 
