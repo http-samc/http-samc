@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samarth Chitgopekar</h1>
-<h3 align="center">A Bulls Fan from 📍 Chicago, IL</h3>
+<h3 align="center">A Bulls 🐂 🏀 Fan from 📍 Chicago, IL</h3>
 <br>
 
 ## `$ whois http-samc`
 - You can check out cool things I do on my website, [smrth.dev](https://www.smrth.dev) (there are also awesome writeups!)
 - I like exploring many different areas of CS. I've recently been working on projects involving:
     - Mobile Apps
-    - Web Development
+    - Web Development/API Creation
     - Data Science
-    - API Creation
-- Right now, I'm developing my own language and experimenting with Machine Learning by creating my own neural network
+    - Machine Learning (NLP)
 
 ## `$ curl http-samc/blog`
 <!-- BLOG-POST-LIST:START -->
