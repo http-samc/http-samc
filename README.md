@@ -21,3 +21,5 @@
 1. [Email: chitgopekarsamarth@gmail.com](chitgopekarsamarth@gmail.com)
 2. [Instagram: samc.03](https://www.instagram.com/samc.03)
 3. [LinkedIn: iamsamc](https://www.linkedin.com/in/iamsamc/)
+
+<iframe src="https://smrth.dev/api/github-activity/http-samc" style="width: 100%; height: 70px, padding: 0px, border: 0px" />
